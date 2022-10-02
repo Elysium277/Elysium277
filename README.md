@@ -2,6 +2,7 @@
 NOVA KEY
 NOVA KEY
 NOVA KEY
+<p dir="auto">NOVA KEY</p>
 
 NOVA KEY
 </article>
