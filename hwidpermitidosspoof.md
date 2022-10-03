@@ -38,7 +38,8 @@
 <p dir="auto">189.123.245.45 08/10</p>
 <p dir="auto">187.107.86.239 ozioli LIFETIME</p>
 <p dir="auto">45.160.88.75 10/10/2022</p>
+<p dir="auto">177.81.75.233 LIFETIME NEXUS</p>
 
- 177.81.75.233 LIFETIME NEXUS
-</article>
  138.36.231.70 05/10
+</article>
+ 187.126.137.18 03/11
