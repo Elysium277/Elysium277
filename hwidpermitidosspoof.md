@@ -81,7 +81,8 @@
 <p dir="auto">200.52.28.12 04/11</p>
 <p dir="auto">45.191.79.109 LIFETIME</p>
 <p dir="auto">45.188.89.75 795521000551743499 LIFETIME</p>
+<p dir="auto">45.191.79.14 LIFETIME</p>
 
- 45.191.79.14 LIFETIME
-</article>
  45.191.79.145
+</article>
+ 191.189.11.239 11/10/2022
