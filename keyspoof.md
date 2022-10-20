@@ -196,6 +196,5 @@ RQLC-ERRV-DFT8-0I6O-QOBH &gt;  wwba 7day
 <p dir="auto">ZJL6-FFLW-9TWS-CM3B-899K &gt;  29/10</p>
 <p dir="auto">ACIL-16QP-YA5P-E8PD-EO9R &gt;  21/10</p>
 
-PAHW-GFTD-L7I8-FG2W-PIYJ &gt;  Lifetime
 </article>
 VRVK-BWKB-0C0O-7X45-G3LT >  27/10
