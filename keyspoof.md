@@ -213,7 +213,7 @@ RQLC-ERRV-DFT8-0I6O-QOBH &gt;  wwba 7day
 <p dir="auto">MHYP-3XDA-1TPB-1CEV-UJ8F &gt;  23/10</p>
 <p dir="auto">5W1M-9BP9-F187-TU62-F2EG &gt;  29/10</p>
 <p dir="auto">QDWQ-Y6NT-PMOU-EYHG-4SGP &gt;  29/10</p>
-<p dir="auto">XKD6-US45-YEAZ-A2Z0-DT36 &gt;  22/11</p>
+<p dir="auto">XKD6-US45-YEAZ-A2Z0-DT36 &gt;  29/10</p>
 
 ABSX-72PU-74BZ-7GJT-V2FX &gt;  23/10
 </article>
