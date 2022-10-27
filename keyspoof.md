@@ -1,4 +1,4 @@
-Key: <article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">Key: </p><p dir="auto">BON5-H11R-9QJK-JLGN-VNFP &gt;  02/11</p><p dir="auto"/>
+BON5-H11R-9QJK-JLGN-VNFP &gt;  02/11</p><p dir="auto"/>
 <p dir="auto"> 1.6 VERSÃO &gt;  SPOOFER</p>
 <p dir="auto">M48N-7H4A-6XOF-PC5E-3QUT &gt;  Ozioli LIFETIME</p>
 <p dir="auto">OB6J-KRNF-5H1W-6429-1P4Z &gt;  ZeDark LIFETIME</p>
@@ -129,7 +129,6 @@ GRIQ-UDG6-2Y1Z-7NRP-E9CP &gt;  wwba 7day
 VKR8-307J-A21B-PTSN-KD43 &gt;  wwba 7day
 RQLC-ERRV-DFT8-0I6O-QOBH &gt;  wwba 7day
 <p dir="auto">H48C-N67Y-NO7J-3OOD-T11G &gt;  420250837806219266 LIFETIME</p>
-<p dir="auto">YI4A-A7FN-DSYE-SX6S-B1EE &gt;  27/10</p>
 <p dir="auto">T3OD-XKNT-CI8F-KN1Z-XDN8 &gt;  16/11</p>
 <p dir="auto">NL49-A31T-6C9W-A5UM-A2PS &gt;  709887098697809993 LIFETIME</p>
 <p dir="auto">XR45-AJKQ-VY63-1P35-ESE6 &gt;  520208740364976140 LIFETIME</p>
@@ -148,23 +147,11 @@ RQLC-ERRV-DFT8-0I6O-QOBH &gt;  wwba 7day
 <p dir="auto">VAHX-FHPK-513M-U6R6-MN6G &gt;  513115031060348949 LIFETIME</p>
 <p dir="auto">ZG5H-7A8O-S35Z-MWPQ-AFU3 &gt;  01/11</p>
 <p dir="auto">H7QD-RIFP-2BDH-ASGX-VEA5 &gt;  937152032937238569 LIFETIME</p>
-<p dir="auto">TRKV-H3G9-ZOND-HYRF-TOAL &gt;  26/10</p>
-<p dir="auto">ISG6-0UZY-DWD5-XYOB-4HYO &gt;  26/10</p>
-<p dir="auto">PHQN-WXBE-OM3W-VHFE-9PLY &gt;  26/10</p>
-<p dir="auto">IYWO-EAAO-P1JX-UX7E-41D8 &gt;  26/10</p>
-<p dir="auto">QVFJ-EIZH-6DPU-CNK9-UP45 &gt;  26/10</p>
-<p dir="auto">P395-5DUC-9UC0-U7V4-ZEE6 &gt;  26/10</p>
 <p dir="auto">WBQK-0QRO-FEKE-VYE7-WHVE &gt;  977651691358920705 LIFETIME</p>
-<p dir="auto">GI2I-M5K2-FVYB-5P3Q-8QQV &gt;  26/10</p>
 <p dir="auto">K0L7-ATWP-CFMD-9IIB-QSL4 &gt;  lifetime</p>
 <p dir="auto">XSBJ-LPIZ-ARVN-207D-Z891 &gt;  20/11</p>
 <p dir="auto">MD8U-JXNQ-MIQS-3NK1-2KIR &gt;  lifetime</p>
 <p dir="auto">ZJL6-FFLW-9TWS-CM3B-899K &gt;  29/10</p>
-<p dir="auto">VRVK-BWKB-0C0O-7X45-G3LT &gt;  27/10</p>
-<p dir="auto">PDVJ-838B-AGGX-8VSU-ZPDL &gt;  27/10</p>
-<p dir="auto">VWOM-H2H4-VBMI-3R0C-8Y75 &gt;  27/10</p>
-<p dir="auto">W2XZ-O606-70R5-LE7N-S7BA &gt;  27/10</p>
-<p dir="auto">FU2J-URFH-YFUB-6U73-VU1I &gt;  27/10</p>
 <p dir="auto">N8SR-R4TQ-XACJ-ND2W-3GCF &gt;  495968838765248583</p>
 <p dir="auto">PRQ0-PZAJ-58M1-HYLH-MZW5 &gt;  28/10</p>
 <p dir="auto">QIY7-PDJD-YLD9-KPE6-Z4DB &gt;  LIFE TIME</p>
@@ -206,7 +193,6 @@ RQLC-ERRV-DFT8-0I6O-QOBH &gt;  wwba 7day
 <p dir="auto">CSJC-63U5-7MVQ-YIST-DW2U &gt;  31/10</p>
 <p dir="auto">0JHS-AAD8-Y8AV-H539-A127 &gt;  1016026414606200986 LIFETIME</p>
 <p dir="auto">X3MY-J1G9-WVI8-LKF1-BAO6 &gt;  31/10</p>
-<p dir="auto">R9D0-3PPE-Z9MY-XTD4-0FPZ &gt;  27/10</p>
 <p dir="auto">DK8D-35BG-C16U-QQKA-LDJM &gt;  24/11</p>
 <p dir="auto">XF8X-6773-S7SL-S8G3-U98W &gt;  31/10</p>
 <p dir="auto">SVED-9FW9-IIPW-LOXV-7NYB &gt;  01/11</p>
@@ -214,9 +200,7 @@ RQLC-ERRV-DFT8-0I6O-QOBH &gt;  wwba 7day
 <p dir="auto">BHTX-X459-RC0Q-WRD4-07UW &gt;  Lifetime</p>
 <p dir="auto">K9EV-YYIX-102E-OF41-B928 &gt;  lifetime</p>
 <p dir="auto">Q57Q-CGHX-A14V-4RCQ-XNJS &gt;  01/11</p>
-<p dir="auto">BDHM-RVYA-RKAD-O4M8-NRIW &gt;  26/10</p>
 <p dir="auto">9B84-8HOA-90KK-RVYC-RSUD &gt;  01/11</p>
-<p dir="auto">2FPI-KPJ1-RCXN-4EA2-8D1C &gt;  26/10</p>
 <p dir="auto">Y7F5-O9CJ-7CX7-FC02-MB95 &gt;  01/11</p>
 <p dir="auto">90HA-367M-D7CW-8V7H-CH8U &gt;  25/11</p>
 <p dir="auto">DRP3-0WAN-1SMB-BGTN-KL1O &gt;  01/11</p>
@@ -225,18 +209,13 @@ RQLC-ERRV-DFT8-0I6O-QOBH &gt;  wwba 7day
 <p dir="auto">UMGT-WDGF-F9V8-5APG-KE6R &gt;  1032835281868554250 lifetime</p>
 <p dir="auto">2EFZ-T97R-IYHN-NI1F-IF6H &gt;  01/11</p>
 <p dir="auto">H5VO-EE9J-CSLJ-3GSD-B82B &gt;  01/11</p>
-<p dir="auto">NWQD-QI2F-G64Z-BPIO-ZKED &gt;  27/10</p>
 <p dir="auto">6238-1MVM-Q3PC-49GS-MQ6H &gt;  26/11</p>
-<p dir="auto">5QER-C8FU-2U8L-B6D5-4PMU &gt;  27/10</p>
 <p dir="auto">0QVH-8PXB-8XVR-GNV8-0Q22 &gt;  02/11</p>
-<p dir="auto">VYLA-0S2L-GU1J-R2YT-CJ9S &gt;  27/10</p>
 <p dir="auto">SW35-V05J-ZFAM-5NY3-0C2I &gt;  26/11</p>
 <p dir="auto">YF48-S3C8-Z3C3-N44U-GFD0 &gt;  1029882309740085258 LIFETIME</p>
 <p dir="auto">IWT5-N2SR-LXPK-WUUB-G97J &gt;  lifitime</p>
 <p dir="auto">MYTE-DLYK-JNES-1K28-9LF0 &gt;  02/11</p>
-<p dir="auto">MBSP-LOYC-I5R3-TWLE-ATCA &gt;  27/10</p>
 <p dir="auto">XO1P-RJG6-I4IS-9V8Y-IZ9Z &gt;  lifetime</p>
-<p dir="auto">FS1L-FU9D-RX3Y-EAX4-HAUA &gt;  27/10</p>
 <p dir="auto">SZ3O-RJEE-VPX3-23SL-G6BM &gt;  2/11</p>
 <p dir="auto">J6HX-7SHV-SNEL-PEP2-02BS &gt;  26/11</p>
 <p dir="auto">XB2M-2PJR-3XTS-4DCU-3BDN &gt;  26/11</p>
@@ -250,4 +229,3 @@ RQLC-ERRV-DFT8-0I6O-QOBH &gt;  wwba 7day
 
 ZB8G-SRRF-N0AT-375C-ECNK &gt;  03/11
 </article>
-EIVR-YLGR-GW5S-2GTT-MV9W >  27/10
