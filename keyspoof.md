@@ -456,7 +456,8 @@ RQLC-ERRV-DFT8-0I6O-QOBH &gt;  wwba 7day
 <p dir="auto">9M9N-JQ6U-RXSY-DNPB-DHUA &gt;  semanal wwba</p>
 <p dir="auto">YNX8-0VV4-D6SM-2CI9-7NT2 &gt;  semanal wwba</p>
 <p dir="auto">THS6-JER9-LJTL-15LP-Y6AB &gt;  semanal wwba</p>
+<p dir="auto">G48Q-WW70-SLDE-DWJY-S0WD &gt;  semanal wwba</p>
 
-G48Q-WW70-SLDE-DWJY-S0WD &gt;  semanal wwba
+UK97-9Q0E-522M-ETRM-1GTQ &gt;  semanal wwba
 </article>
-UK97-9Q0E-522M-ETRM-1GTQ >  semanal wwba
+I9OV-0J42-TM23-3WK6-X0J1 >  28/11
